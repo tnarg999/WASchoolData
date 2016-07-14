@@ -1,0 +1,10 @@
+[{"District":"Aberdeen School District","Year":2011,"Per Pupil Expenditure":11959.74},
+ {"District":"Aberdeen School District","Year":2012,"Per Pupil Expenditure":11892.81},
+ {"District":"Adna School District","Year":2004,"Per Pupil Expenditure":8908.64},
+ {"District":"Adna School District","Year":2005,"Per Pupil Expenditure":9883.10},
+ {"District":"Bainbridge Island School District","Year":2010,"Per Pupil Expenditure":13276.00},
+ {"District":"Bainbridge Island School District","Year":2011,"Per Pupil Expenditure":17867.22},
+ {"District":"Bainbridge Island School District","Year":2012,"Per Pupil Expenditure":13616.76},
+ {"District":"West Valley School District (Yakima)","Year":2009,"Per Pupil Expenditure":12318.88},
+ {"District":"West Valley School District (Yakima)","Year":2010,"Per Pupil Expenditure":11010.89},
+ {"District":"West Valley School District (Yakima)","Year":2011,"Per Pupil Expenditure":11214.37}]
